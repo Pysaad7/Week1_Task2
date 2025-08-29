@@ -1,0 +1,16 @@
+[
+    {
+        "Book ID": "01",
+        "Title": "Zavia",
+        "Author": "Ishfaq Ahmad",
+        "Quantity": 5,
+        "Max Quantity": 5
+    },
+    {
+        "Book ID": "2",
+        "Title": "Saad",
+        "Author": "Saad Abdullah",
+        "Quantity": 7,
+        "Max Quantity": 7
+    }
+]
